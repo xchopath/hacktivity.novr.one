@@ -1,7 +1,7 @@
 ---
 title: Catatan Dasar Symmetric Encryption
 author: xchopath
-date: 2023-09-13 00:00:00 +0700
+date: 2023-09-03 00:00:00 +0700
 categories: [InfoSec]
 tags: [InfoSec]
 ---
